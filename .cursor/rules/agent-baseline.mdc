@@ -1,0 +1,16 @@
+---
+description: Baseline behavior for AI coding agents in this repository
+alwaysApply: true
+---
+
+# Agent Baseline
+
+- Read nearby code before editing.
+- Follow existing naming, architecture, and formatting.
+- Keep changes narrow and reversible.
+- Prefer explicit, boring code over clever abstractions.
+- Do not add dependencies without a clear reason.
+- Do not remove tests or weaken validation to make a task pass.
+- For user-facing UI, verify responsive layout and text fit.
+- After changes, report what was changed and how it was checked.
+
